@@ -1,2 +1,0 @@
-"# Palindromo" 
-"# Palindromo" 

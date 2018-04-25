@@ -1,0 +1,11 @@
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\bin\Debug\netcoreapp2.0\Palindromo.deps.json
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\bin\Debug\netcoreapp2.0\Palindromo.runtimeconfig.json
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\bin\Debug\netcoreapp2.0\Palindromo.runtimeconfig.dev.json
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\bin\Debug\netcoreapp2.0\Palindromo.dll
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\bin\Debug\netcoreapp2.0\Palindromo.pdb
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.csprojResolveAssemblyReference.cache
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.AssemblyInfo.cs
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.dll
+C:\Users\Willian\Documents\Visual Studio 2017\Projects\Palíndromo\Palíndromo\obj\Debug\netcoreapp2.0\Palindromo.pdb
